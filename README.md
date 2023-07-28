@@ -5,4 +5,4 @@ Created by:
 Kharisma Sastrawansyah,
 M Naufal Hilman,
 Fahmi Maulana,
-M Fadlil,
+M Fadlil
